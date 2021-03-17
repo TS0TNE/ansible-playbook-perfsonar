@@ -6,3 +6,7 @@
 - src: https://github.com/perfsonar/ansible-role-perfsonar-toolkit
 - src: https://github.com/perfsonar/ansible-role-perfsonar-psconfig-publisher
 - src: https://github.com/perfsonar/ansible-role-perfsonar-psconfig-web-admin
+- src: git@gitlab.grena.ge:tsotne/ps-cnaas-elk.git
+  scm: git
+- src: git@gitlab.grena.ge:tsotne/ps-cnaas-netns.git
+  scm: git
